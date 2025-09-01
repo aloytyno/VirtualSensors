@@ -5,7 +5,7 @@
 This repository demonstrates the use of MATLAB and AI to develop a virtual sensor for accurate estimation of aircraft air speed. This example heavily uses MATLAB's low code tools for data import, data cleaning and machine learning modeling.
 
 ## Usage
-Open project "nasa-aircraft-low-code.prj" and browse to "Demos" and open "VirtualSensorModel.mlx"
+Open project "Virtual-Sensor-Modeling-with-MATLAB.prj" and browse to "Demos" and open "VirtualSensorModel.mlx"
 
 ## Toolboxes used
 * MATLAB
